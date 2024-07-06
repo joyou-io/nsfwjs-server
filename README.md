@@ -32,6 +32,7 @@
 
 ### Response
 only code : 0 and data.isSafe : true means a "good" image!
+
 {
 	"code": 0,
 	"msg": "bad image!",
