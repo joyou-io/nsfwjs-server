@@ -19,7 +19,7 @@
 
 ### Usage  
 - image binary
-- 
+ 
   curl -X POST localhost:9016/upload  -F 'image=@./draw1.jpg'
   
 - image path
@@ -31,6 +31,7 @@
   curl -X POST localhost:9016/upload -F 'https://xxx.com/draw1.jpg'
 
 ### Response
+only code : 0 and data.isSafe : true means a "good" image!
 {
 	"code": 0,
 	"msg": "bad image!",
