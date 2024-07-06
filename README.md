@@ -13,7 +13,8 @@
 - npm i
 
 ### Start 
-- node main.js  or node main.js 9000
+- node main.js 
+- or node main.js 9000
   
   web server running at port 9016(default)
 
