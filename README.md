@@ -8,3 +8,8 @@
 - ℹ️ Return predictions for `Neutral`, `Drawing`, `Sexy`, `Hentai` and `Porn`
 - 🎯 Pretty accurate (~93%)
 - 🖼️ Supports jpg png gif webp image formats
+
+
+### Installation ⚙️
+- npm i
+  
