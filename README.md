@@ -1,5 +1,5 @@
 <p align="center">
   <img src="https://github.com/joyou-io/nsfwjs-server/assets/18582456/d14353ed-4e4b-4880-960b-0066775173ac" alt="NSFWJS Server Logo" width="400" />
-  <h2 align="center">NSFW web server via nsfwjs</h2>
+  <h2 align="center">NSFW web server via [NSFWJS](https://github.com/infinitered/nsfwjs)</h2>
 </p>
 
