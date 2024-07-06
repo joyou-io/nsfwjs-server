@@ -18,6 +18,9 @@
   web server running at port 9016(default)
 
 ### Usage  
+
+POST request to Content-Type: multipart/form-data sending an image in the image field
+
 - image binary
  
   curl -X POST localhost:9016/upload  -F 'image=@./draw1.jpg'
