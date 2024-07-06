@@ -3,3 +3,8 @@
   <h2 align="center">NSFW web server via <a href="https://github.com/infinitered/nsfwjs">NSFWJS</a></h2>
 </p>
 
+### Features ✨
+
+- ℹ️ Return predictions for `Neutral`, `Drawing`, `Sexy`, `Hentai` and `Porn`
+- 🎯 Pretty accurate (~93%)
+- 🖼️ Supports jpg png gif webp image formats
