@@ -14,14 +14,20 @@
 
 ### Start 
 - node main.js  or node main.js 9000
+  
   web server running at port 9016(default)
 
 ### Usage  
 - image binary
+- 
   curl -X POST localhost:9016/upload  -F 'image=@./draw1.jpg'
+  
 - image path
+  
   curl -X POST localhost:9016/upload -F 'image=draw1.jpg'
-- image url  
+  
+- image url
+  
   curl -X POST localhost:9016/upload -F 'https://xxx.com/draw1.jpg'
 
 ### Response
