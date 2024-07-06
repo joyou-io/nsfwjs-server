@@ -19,7 +19,7 @@
 
 ### Usage  
 
-  POST request to Content-Type: multipart/form-data sending an image in the image field
+	POST request to Content-Type: multipart/form-data sending an image in the image field
 
 - image binary
  
@@ -34,9 +34,9 @@
   curl -X POST localhost:9016/upload -F 'https://xxx.com/draw1.jpg'
 
 ### Response
-  only code : 0 and data.isSafe : true means a "good" image!
+- only code : 0 and data.isSafe : true means a "good" image!
 
-  {
+- {
 	"code": 0,
 	"msg": "bad image!",
 	"data": {
